@@ -1,7 +1,7 @@
 ---
 title: Schedule
 excerpt: Week-by-week plan and readings
-date: 2021-10-17
+date: 2022-10-21
 icon:
   type: fa
   name: fa-calendar-alt

@@ -1,7 +1,7 @@
 ---
 title: COVID-19
 excerpt: Rules of the road for learning and participation.
-date: 2021-10-17
+date: 2022-10-21
 icon:
   type: fa
   name: fa-virus
