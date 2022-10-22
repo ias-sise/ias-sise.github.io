@@ -5,7 +5,7 @@ date: 2022-10-21
 icon:
   type: fa
   name: fa-file-alt
-color: green
+color: blue
 ---
 
 Social media, search engines, and other sources of large-scale textual data (e.g. Wikipedia) provide unprecedented amounts of information about human behavior both in richness and granularity. This information enables reexamination of old and news questions from the social sciences around consumption of information by individuals, social interactions, political communication and more. 

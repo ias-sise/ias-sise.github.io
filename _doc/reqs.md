@@ -5,7 +5,7 @@ date: 2021-10-17
 icon:
   type: fa
   name: fa-info-circle
-color: purple
+color: orange
 sections:
   - /reqs/grade
   - /reqs/part

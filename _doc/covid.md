@@ -5,7 +5,7 @@ date: 2021-10-17
 icon:
   type: fa
   name: fa-virus
-color: blue
+color: red
 ---
 
 At the time writing, this class is scheduled to take place fully in-person, subject to university-wide requirements regarding vaccination, social distancing, etc., and with attendance and participation recorded as an in-person class. Nevertheless, we are not yet in a post-pandemic world and if there are extenuating circumstances due to COVID-19, you are encouraged to contact the instructor regarding possible mitigations. 

@@ -5,7 +5,7 @@ date: 2021-10-17
 icon:
   type: fa
   name: fa-calendar-alt
-color: pink
+color: green
 sections:
   - /schedule/wk1
   - /schedule/wk2

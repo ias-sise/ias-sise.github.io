@@ -1,20 +1,26 @@
 ---
-title: Week 4&#58; Running experiments, asking questions, project prep
+title: Week 4&#58; Research ethics, running experiments, project prep
 ---
 
-***Lecture covers:***
-
-- Matthew Salganik. Bit by Bit, [**Chapter 3: Asking Questions**](https://www.bitbybitbook.com/en/1st-ed/asking-questions/).
-- Jaime Teevan (2013). [**A Formula for Academic Papers**](http://slowsearching.blogspot.com/2013/11/a-formula-for-academic-papers.html).
-- Eamonn Keogh (2009). [**Tutorial on How to do good research, get it published in SIGKDD and get it cited!**](http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf) (slide #69 on writing the paper). KDD'09.
+***Lecture covers:*** 
+- Matthew Salganik. Bit by Bit, [**Chapter 6: Ethics**](https://www.bitbybitbook.com/en/1st-ed/ethics/).
+- Matthew Salganik. Bit by Bit, [**Chapter 4: Running experiments**](https://www.bitbybitbook.com/en/1st-ed/running-experiments/).
 
 ***Required reading***:
 
-- Wang, Wei, David Rothschild, Sharad Goel, and Andrew Gelman. [**Forecasting elections with non-representative polls.**](https://www-sciencedirect-com.ezproxy.bgu.ac.il/science/article/pii/S0169207014000879) International Journal of Forecasting 31, no. 3 (2015): 980-991.
-- Joshua Blumenstock, Gabriel Cadamuro, & Robert On. [**Predicting Poverty and Wealth from Mobile Phone Data**](https://science.sciencemag.org/content/350/6264/1073), Science 350, no. 6264 (2015): 1073-1076.
+- Adam Kramer, Jamie Guillory, & Jeffrey Hancock. [**Emotional Contagion**](https://www.pnas.org/content/111/24/8788), PNAS. 2014.
+- Bond, Robert M., Christopher J. Fariss, Jason J. Jones, Adam DI Kramer, Cameron Marlow, Jaime E. Settle, and James H. Fowler. [**A 61-million-person experiment in social influence and political mobilization.**](https://www.nature.com/articles/nature11421) Nature 489, no. 7415 (2012): 295-298. 
 
 ***Additional reading***:
 
-- National Research Council. 2013. [**Nonresponse in Social Science Surveys: A Research Agenda. Summary + Chapter 1**](https://ebookcentral-proquest-com.ezproxy.bgu.ac.il/lib/bgu-ebooks/reader.action?docID=3379255&ppg=22#ppg=16). Edited by Roger Tourangeau and Thomas J. Plewe. Panel on a Research Agenda for the Future of Social Science Data Collection, Committee on National Statistics. Division of Behavioral and Social Sciences and Education. Washington, DC: National Academies Press. (2013).
-- Ansolabehere, S. and Schaffner, B.F., 2014. [**Does survey mode still matter? Findings from a 2010 multi-mode comparison**](https://www-jstor-org.ezproxy.bgu.ac.il/stable/24573071?seq=1#metadata_info_tab_contents). Political Analysis, pp.285-303. (2014).
+_Ethics: Able is not always ethical_
+- Grimmelmann, J. (2015). [**The law and ethics of experiments on social media users**](https://scholarship.law.cornell.edu/cgi/viewcontent.cgi?article=2621&context=facpub). 13 Colo. Tech. L.J. 219, 2015.
+- Fiesler, Casey, and Nicholas Proferes. [**“Participant” perceptions of Twitter research ethics.**](https://journals.sagepub.com/doi/pdf/10.1177/2056305118763366). Social Media+ Society. 2015.
+- Kroll, Joshua A., Solon Barocas, Edward W. Felten, Joel R. Reidenberg, David G. Robinson, and Harlan Yu. [**Accountable algorithms**](https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?&article=9570&context=penn_law_review). U. Pa. L. Rev. 165 (2016): 633.
+- Matias, J. N. (2016). [**The Obligation To Experiment**](https://medium.com/mit-media-lab/the-obligation-to-experiment-83092256c3e9). MIT Media Lab.
+- Robinson Meyer. [**Everything We Know About Facebook's Secret Mood Manipulation Experiment**](https://www.theatlantic.com/technology/archive/2014/06/everything-we-know-about-facebooks-secret-mood-manipulation-experiment/373648/), the Atlantic. June 28, 2014.
 
+_Experiments:_
+- King, Gary, Benjamin Schneer, and Ariel White. [**How the news media activate public expression and influence national agendas**](https://science-sciencemag-org.ezproxy.bgu.ac.il/content/358/6364/776). Science 358, no. 6364 (2017): 776-780.
+- Eckles, Dean, René F. Kizilcec, and Eytan Bakshy. [**Estimating peer effects in networks with peer encouragement designs**](https://www-pnas-org.ezproxy.bgu.ac.il/content/pnas/113/27/7316.full.pdf). Proceedings of the National Academy of Sciences 113, no. 27 (2016): 7316-7322.
+- Munger, Kevin. [**Tweetment effects on the tweeted: Experimentally reducing racist harassment**](https://link-springer-com.ezproxy.bgu.ac.il/article/10.1007/s11109-016-9373-5). Political Behavior 39, no. 3 (2017): 629-649.

@@ -1,15 +1,19 @@
 ---
-title: Week 8&#58; Social Media, Filter Bubbles, and Political Polarization
+title: Week 8&#58; Computational Sociology
 ---
+
+[comment]: <> (- Lecture covers Nicholas Christakis Ted talk https://www.youtube.com/watch?v=1UoI6YRKo2I)
 
 ***Required reading***:
 
-- Bakshy, Eytan, Solomon Messing, and Lada A. Adamic. [**Exposure to ideologically diverse news and opinion on Facebook.**](https://science.sciencemag.org/content/348/6239/1130) Science 348, no. 6239 (2015): 1130-1132.
-- Chris Bail, et al. [**Exposure to opposing views on social media can increase political polarization**](https://www.pnas.org/content/115/37/9216), Proceedings of the National Academy of Sciences.
+- Mark Granovetter. [**The Strength of Weak Ties**](https://www.jstor.org/stable/2776392?seq=1). American Journal of Sociology 78(6): 1360-1380.
+- Nicholas Cristakis & James Fowler. [**Connected: The Surprising Power of Our Social Networks and How they Shape Our Lives**](http://connectedthebook.com/pdf/excerpt.pdf), Chapter One.
+- Chetty, Raj, Matthew O. Jackson, Theresa Kuchler, Johannes Stroebel, Nathaniel Hendren, Robert B. Fluegge, Sara Gong et al. [**Social capital I: measurement and associations with economic mobility**](https://www.nature.com/articles/s41586-022-04996-4). Nature (2022): 1-14.
+
 
 ***Additional reading***:
 
-- Flaxman, Seth, Sharad Goel, and Justin M. Rao. [**Filter bubbles, echo chambers, and online news consumption**](https://academic-oup-com.ezproxy.bgu.ac.il/poq/article/80/S1/298/2223402). Public opinion quarterly 80, no. S1 (2016): 298-320.
-- Rathje, Steve, Jay J. Van Bavel, and Sander van der Linden. [**Out-group animosity drives engagement on social media.**](https://www-pnas-org.ezproxy.bgu.ac.il/content/118/26/e2024292118) Proceedings of the National Academy of Sciences 118, no. 26 (2021).
-- Levy, Ro'ee. [**Social media, news consumption, and polarization: Evidence from a field experiment.**](https://pubs-aeaweb-org.ezproxy.bgu.ac.il/doi/pdfplus/10.1257/aer.20191777) American economic review 111, no. 3 (2021): 831-70.
+- Stanley Milgram. [**The small world problem**](http://snap.stanford.edu/class/cs224w-readings/milgram67smallworld.pdf), Psychology Today.
+- Smriti Bhagat, Moira Burke, Carlos Diuk, Ismail Onur Filiz, and Sergey Edunov. [**Three and a half degrees of separation**](https://research.fb.com/blog/2016/02/three-and-a-half-degrees-of-separation/). Facebook Research. 2016.
+- Burke, Moira, and Robert Kraut. [**Using Facebook after losing a job: Differential benefits of strong and weak ties**](https://dl-acm-org.ezproxy.bgu.ac.il/doi/pdf/10.1145/2441776.2441936). In Proceedings of the 2013 conference on Computer supported cooperative work, pp. 1419-1430. 2013.
 

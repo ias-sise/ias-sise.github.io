@@ -1,11 +1,19 @@
 /* Theme default */
-$color-primary: #40babd;
-$color-green: #75c181;
+/*$color-primary: #40babd;*/
+/* $color-green: #75c181;
 $color-red: #f77b6b;
 $color-blue: #58bbee;
 $color-orange: #F88C30;
 $color-pink: #EA5395;
-$color-purple: #8A40A7;
+$color-purple: #8A40A7; */
+$color-green: #05A688;
+$color-red: #F54926;
+$color-blue: #1B65A6;
+$color-orange: #F28A2E;
+$color-pink: #F541DF;
+$color-purple: #8A40A7; 
+
+$color-primary: #F28A2E;
 
 $text-color: #494d55;
 $text-color-secondary: lighten($text-color, 10%);

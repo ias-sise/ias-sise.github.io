@@ -5,7 +5,7 @@ date: 2022-10-21
 icon:
   type: fa
   name: fa-chalkboard-teacher
-color: primary
+color: pink
 ---
 
 # Nir Grinberg
