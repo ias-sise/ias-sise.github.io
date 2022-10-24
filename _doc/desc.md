@@ -8,7 +8,7 @@ icon:
 color: blue
 ---
 
-Social media, search engines, and other sources of large-scale textual data (e.g. Wikipedia) provide unprecedented amounts of information about human behavior both in richness and granularity. This information enables reexamination of old and news questions from the social sciences around consumption of information by individuals, social interactions, political communication and more. 
+Social media, search engines, and other sources of large-scale textual data (e.g. Wikipedia) provide unprecedented amounts of information about human behavior both in richness and granularity. This information enables reexamination of old and new questions from the social sciences around consumption of information by individuals, social interactions, political communication and more. 
 
 At the same time, the scale and heterogeneity of data from these sources present new methodological challenges that hinder principled analysis and robust inference about human behavior. 
 
