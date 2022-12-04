@@ -5,6 +5,8 @@ title: Week 4&#58; Research ethics, running experiments, project prep
 ***Lecture covers:*** 
 - Matthew Salganik. Bit by Bit, [**Chapter 6: Ethics**](https://www.bitbybitbook.com/en/1st-ed/ethics/).
 - Matthew Salganik. Bit by Bit, [**Chapter 4: Running experiments**](https://www.bitbybitbook.com/en/1st-ed/running-experiments/).
+- Jaime Teevan (2013). [**A Formula for Academic Papers**](http://slowsearching.blogspot.com/2013/11/a-formula-for-academic-papers.html).
+- Eamonn Keogh (2009). [**Tutorial on How to do good research, get it published in SIGKDD and get it cited!**](http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf) (slide #69 on writing the paper). KDD'09.
 
 ***Required reading***:
 

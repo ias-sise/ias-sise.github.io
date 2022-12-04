@@ -6,6 +6,7 @@ title: Week 3&#58; Observing behavior, Social Research in the Digital Age
 
 - Matthew Salganik. Bit by Bit, [**Chapter 1: Introduction**](https://www.bitbybitbook.com/en/1st-ed/introduction/)
 - Matthew Salganik. Bit by Bit, [**Chapter 2: Observing Behavior**](https://www.bitbybitbook.com/en/1st-ed/observing-behavior/)
+[comment]: <> (minutes 3-13: https://www.youtube.com/watch?v=wqn3gR1WTcA&t=180s)
 
 ***Required reading***
 
