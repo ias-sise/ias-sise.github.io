@@ -9,6 +9,7 @@ title: Week 7&#58; Social Networks and Political Science
 
 ***Additional reading***:
 
-- Flaxman, Seth, Sharad Goel, and Justin M. Rao. [**Filter bubbles, echo chambers, and online news consumption**](https://academic-oup-com.ezproxy.bgu.ac.il/poq/article/80/S1/298/2223402). Public opinion quarterly 80, no. S1 (2016): 298-320.
-- Levy, Ro'ee. [**Social media, news consumption, and polarization: Evidence from a field experiment.**](https://pubs-aeaweb-org.ezproxy.bgu.ac.il/doi/pdfplus/10.1257/aer.20191777) American economic review 111, no. 3 (2021): 831-70.
-- Wojcieszak, Magdalena, Andreu Casas, Xudong Yu, Jonathan Nagler, and Joshua A. Tucker. [**Most users do not follow political elites on Twitter; those who do show overwhelming preferences for ideological congruity**](https://www-science-org.ezproxy.bgu.ac.il/doi/10.1126/sciadv.abn9418). Science Advances 8, no. 39 (2022).
+- Flaxman, Seth, Sharad Goel, and Justin M. Rao. [**Filter bubbles, echo chambers, and online news consumption**](https://academic-oup-com.bengurionu.idm.oclc.org/poq/article/80/S1/298/2223402). Public opinion quarterly 80, no. S1 (2016): 298-320.
+- Levy, Ro'ee. [**Social media, news consumption, and polarization: Evidence from a field experiment.**](https://pubs-aeaweb-org.bengurionu.idm.oclc.org/doi/pdfplus/10.1257/aer.20191777) American economic review 111, no. 3 (2021): 831-70.
+- Wojcieszak, Magdalena, Andreu Casas, Xudong Yu, Jonathan Nagler, and Joshua A. Tucker. [**Most users do not follow political elites on Twitter; those who do show overwhelming preferences for ideological congruity**](https://www-science-org.bengurionu.idm.oclc.org/doi/10.1126/sciadv.abn9418). Science Advances 8, no. 39 (2022).
+- Törnberg, Petter. [**How digital media drive affective polarization through partisan sorting.**](https://doi-org.bengurionu.idm.oclc.org/10.1073/pnas.2207159119) Proceedings of the National Academy of Sciences 119, no. 42 (2022): e2207159119.
