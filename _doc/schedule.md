@@ -1,7 +1,7 @@
 ---
 title: Schedule
 excerpt: Week-by-week plan and readings
-date: 2024-01-02
+date: 2024-11-05
 icon:
   type: fa
   name: fa-calendar-alt
@@ -14,6 +14,7 @@ sections:
   - /schedule/wk5
   - /schedule/wk6
   - /schedule/wk7
+  - /schedule/wk8
   - /schedule/wk9
   - /schedule/wk10
   - /schedule/wk11

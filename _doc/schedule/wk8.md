@@ -15,5 +15,5 @@ title: Week 8&#58; Computational Sociology
 
 - Stanley Milgram. [**The small world problem**](http://snap.stanford.edu/class/cs224w-readings/milgram67smallworld.pdf), Psychology Today.
 - Smriti Bhagat, Moira Burke, Carlos Diuk, Ismail Onur Filiz, and Sergey Edunov. [**Three and a half degrees of separation**](https://research.fb.com/blog/2016/02/three-and-a-half-degrees-of-separation/). Facebook Research. 2016.
-- Burke, Moira, and Robert Kraut. [**Using Facebook after losing a job: Differential benefits of strong and weak ties**](https://dl-acm-org.ezproxy.bgu.ac.il/doi/pdf/10.1145/2441776.2441936). In Proceedings of the 2013 conference on Computer supported cooperative work, pp. 1419-1430. 2013.
+- Burke, Moira, and Robert Kraut. [**Using Facebook after losing a job: Differential benefits of strong and weak ties**](https://dl-acm-org.bengurionu.idm.oclc.org/doi/pdf/10.1145/2441776.2441936). In Proceedings of the 2013 conference on Computer supported cooperative work, pp. 1419-1430. 2013.
 

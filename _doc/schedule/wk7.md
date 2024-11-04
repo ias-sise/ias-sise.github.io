@@ -9,6 +9,7 @@ title: Week 7&#58; Social Networks and Political Science
 
 ***Additional reading***:
 
+- Green, Jon, Stefan McCabe, Sarah Shugars, Hanyu Chwe, Luke Horgan, Shuyang Cao, and David Lazer. [**Curation bubbles.**](https://osf.io/udfaz) OSF Preprints. (2023).
 - Flaxman, Seth, Sharad Goel, and Justin M. Rao. [**Filter bubbles, echo chambers, and online news consumption**](https://academic-oup-com.bengurionu.idm.oclc.org/poq/article/80/S1/298/2223402). Public opinion quarterly 80, no. S1 (2016): 298-320.
 - Levy, Ro'ee. [**Social media, news consumption, and polarization: Evidence from a field experiment.**](https://pubs-aeaweb-org.bengurionu.idm.oclc.org/doi/pdfplus/10.1257/aer.20191777) American economic review 111, no. 3 (2021): 831-70.
 - Wojcieszak, Magdalena, Andreu Casas, Xudong Yu, Jonathan Nagler, and Joshua A. Tucker. [**Most users do not follow political elites on Twitter; those who do show overwhelming preferences for ideological congruity**](https://www-science-org.bengurionu.idm.oclc.org/doi/10.1126/sciadv.abn9418). Science Advances 8, no. 39 (2022).

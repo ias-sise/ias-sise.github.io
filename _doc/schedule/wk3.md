@@ -1,5 +1,5 @@
 ---
-title: Week 3&#58; Research ethics, running experiments, project prep
+title: Week 3&#58; Research ethics, running experiments
 ---
 
 ***Lecture covers:*** 
